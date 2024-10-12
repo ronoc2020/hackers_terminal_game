@@ -1,13 +1,15 @@
 # Hackers Terminal Game🚀
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronoc2020/Hackers_Terminal_Game/main/Hakcers%20Terminal%20Game%20banner.jpg" alt="Logo" style="width: 400px; border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/ronoc2020/Hackers_Terminal_Game/main/Hakcers%20Terminal%20Game%20banner.jpg" alt="Logo" style="width: 400px; border-radius: 25px;"/>
 </p>
 
 A web-based Hackers-themed terminal game inspired by the popular series *Mr. Robot*. This interactive game allows users to learn about common OSINT (Open Source Intelligence) tools and Linux hacking commands while engaging in a simulated environment.
 
 
-![Build Status](https://img.shields.io/travis/yourusername/yourrepository.svg?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+![Build Status]
+(https://img.shields.io/travis/yourusername/yourrepository.svg?style=flat-square)
+![License]
+(https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 ## Table of Contents
 - [Features](#features)
