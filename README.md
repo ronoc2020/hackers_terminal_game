@@ -1,7 +1,13 @@
-# Hackers Terminal Game
-
+# Hackers Terminal Game🚀
+<p align="center">
+  <img src="path/to/logo.png" alt="Logo" width="200"/>
+</p>
 ![Hackers Terminal Game Logo](path/to/your/logo.png)  <!-- Add path to your logo here -->
 A web-based Hackers-themed terminal game inspired by the popular series *Mr. Robot*. This interactive game allows users to learn about common OSINT (Open Source Intelligence) tools and Linux hacking commands while engaging in a simulated environment.
+
+
+![Build Status](https://img.shields.io/travis/yourusername/yourrepository.svg?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 ## Table of Contents
 - [Features](#features)
@@ -96,3 +102,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Disclaimer
 
 This is a simulated environment for educational purposes. Always use your skills ethically and legally in the real world!
+Check out our [live demo](http://your-live-demo-link.com) to see it in action! 🎮
