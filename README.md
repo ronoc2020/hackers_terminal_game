@@ -1,8 +1,8 @@
 # Hackers Terminal Game🚀
 <p align="center">
-  <img src="https://github.com/ronoc2020/Hackers_Terminal_Game/blob/main/Hakcers%20Terminal%20Game%20banner.jpg" alt="Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ronoc2020/Hackers_Terminal_Game/main/Hakcers%20Terminal%20Game%20banner.jpg" alt="Logo" style="width: 400px; border-radius: 15px;"/>
 </p>
-![Hackers Terminal Game Logo](https://raw.githubusercontent.com/ronoc2020/Hackers_Terminal_Game/main/Hakcers%20Terminal%20Game%20banner.jpg)
+
 A web-based Hackers-themed terminal game inspired by the popular series *Mr. Robot*. This interactive game allows users to learn about common OSINT (Open Source Intelligence) tools and Linux hacking commands while engaging in a simulated environment.
 
 
