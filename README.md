@@ -1,4 +1,4 @@
-# Hackers Terminal Game🚀
+# Hackers Terminal Game🚀 - Prototype Game
 <p align="center">
   <img src="https://raw.githubusercontent.com/ronoc2020/Hackers_Terminal_Game/main/Hakcers%20Terminal%20Game%20banner.jpg" alt="Logo" style="width: 400px; border-radius: 25px;"/>
 </p>
