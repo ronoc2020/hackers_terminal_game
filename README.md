@@ -102,4 +102,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Disclaimer
 
 This is a simulated environment for educational purposes. Always use your skills ethically and legally in the real world!
-Check out our [live demo]([http://your-live-demo-link.com](https://youtu.be/uyDXRM1UpLc)) to see it in action! 🎮
+Check out our [live demo](https://youtu.be/uyDXRM1UpLc) to see it in action! 🎮
